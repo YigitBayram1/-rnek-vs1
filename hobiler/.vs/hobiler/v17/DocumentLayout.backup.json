@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BTLab\\Desktop\\alg\u0131n-pazartesi\\aspx\\hobiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D1E34F-F438-4EDC-BAAB-4722E5381859}|hobiler\\hobiler.csproj|c:\\users\\btlab\\desktop\\alg\u0131n-pazartesi\\aspx\\hobiler\\hobiler\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D1E34F-F438-4EDC-BAAB-4722E5381859}|hobiler\\hobiler.csproj|solutionrelative:hobiler\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D1E34F-F438-4EDC-BAAB-4722E5381859}|hobiler\\hobiler.csproj|c:\\users\\btlab\\desktop\\alg\u0131n-pazartesi\\aspx\\hobiler\\hobiler\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F5D1E34F-F438-4EDC-BAAB-4722E5381859}|hobiler\\hobiler.csproj|solutionrelative:hobiler\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\BTLab\\Desktop\\alg\u0131n-pazartesi\\aspx\\hobiler\\hobiler\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "hobiler\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\BTLab\\Desktop\\alg\u0131n-pazartesi\\aspx\\hobiler\\hobiler\\WebForm1.aspx.cs*",
+              "RelativeToolTip": "hobiler\\WebForm1.aspx.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:47:09.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\BTLab\\Desktop\\alg\u0131n-pazartesi\\aspx\\hobiler\\hobiler\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "hobiler\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\BTLab\\Desktop\\alg\u0131n-pazartesi\\aspx\\hobiler\\hobiler\\WebForm1.aspx",
+              "RelativeToolTip": "hobiler\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-16T08:41:52.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
